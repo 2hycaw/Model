@@ -12,9 +12,10 @@ The model depends on random variable and each iteration of the model will be dif
 The program can be run from within Spyder or directlty from the command line. 
 
 ## Files
-
+```python
 agentframework.py
 model.py 
+```
 
 ## License
 [MIT](https://choosealicense.com/licenses/mit/)
