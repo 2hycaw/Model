@@ -1,7 +1,3 @@
 ## Welcome 
 
-Use the link on the left to access the repository for the Model source code.
-
-##### Please note
-
-This page was generated using GitHub Pages and utilises [Jekyll](https://jekyllrb.com/).
+To access the repository of the source code for Model, click [here](https://github.com/2hycaw/Model).
