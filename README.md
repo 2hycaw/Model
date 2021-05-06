@@ -9,7 +9,7 @@ The model depends on random variable and each iteration of the model will be dif
 
 ## Usage
 
-The program can be run from within Spyder or directlty from the command line. 
+The program can be run from within Spyder or directly from the command line. 
 
 ## Files
 ```python
